@@ -392,7 +392,7 @@ const main = async () => {
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468949/film-aint-dead/229600-R1-00A_ies5ia.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468949/film-aint-dead/229600-R1-00A_ies5ia.jpg",
       takenBy: "Han",
       caption: "Lost my body in Landers",
     },
@@ -489,7 +489,7 @@ const main = async () => {
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468913/film-aint-dead/229600-R1-23A_vqy1b4.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468913/film-aint-dead/229600-R1-23A_vqy1b4.jpg",
       takenBy: "Han",
       caption: "Off to tandem surf",
     },
@@ -507,7 +507,7 @@ const main = async () => {
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468911/film-aint-dead/229600-R1-22A_igcvo7.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468911/film-aint-dead/229600-R1-22A_igcvo7.jpg",
       takenBy: "Han",
       caption: "Don't go back to Canada",
     },
@@ -525,7 +525,7 @@ const main = async () => {
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468910/film-aint-dead/229600-R1-14A_yc7ucq.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468910/film-aint-dead/229600-R1-14A_yc7ucq.jpg",
       takenBy: "Connor",
       caption: "Three generations of crazy",
     },
@@ -543,7 +543,7 @@ const main = async () => {
     },
     {
       image:
-        "https://cloudinary.com/console/c-5cd56b7c6bedd7284e59603c7be5e5/media_library/folders/774230857169017ca4a4d93df984d84e/asset/fef4779c11e13693b6f740be2f240cbe/manage",
+      "https://res.cloudinary.com/hannahbannan/image/upload/v1595468907/film-aint-dead/CD70A932-1714-4E97-ABD0-9CFB3E49AEC8_aletdt.jpg",
       takenBy: "Han",
       caption: "Camping Pad Thai :)",
     },
@@ -561,55 +561,55 @@ const main = async () => {
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468903/film-aint-dead/229600-R1-2A_ouoi97.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468903/film-aint-dead/229600-R1-2A_ouoi97.jpg",
       takenBy: "Han",
       caption: "The integratron",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468901/film-aint-dead/229600-R1-21A_rhp51y.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468901/film-aint-dead/229600-R1-21A_rhp51y.jpg",
       takenBy: "Han",
       caption: "Yin Yang",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468897/film-aint-dead/229600-R1-24A_dsdpxh.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468897/film-aint-dead/229600-R1-24A_dsdpxh.jpg",
       takenBy: "Maddy",
       caption: "Cousin jammin",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468861/film-aint-dead/229600-R1-4A_n8nwui.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468861/film-aint-dead/229600-R1-4A_n8nwui.jpg",
       takenBy: "Han",
       caption: "Birthday bobble",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468860/film-aint-dead/229600-R1-3A_ptvswu.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468860/film-aint-dead/229600-R1-3A_ptvswu.jpg",
       takenBy: "Han",
       caption: "Joshua Tree looks edible sometimes",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468859/film-aint-dead/229600-R1-6A_g0qlnj.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468859/film-aint-dead/229600-R1-6A_g0qlnj.jpg",
       takenBy: "Han",
       caption: "Yucca City, CA",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468855/film-aint-dead/229600-R1-9A_zi4lip.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468855/film-aint-dead/229600-R1-9A_zi4lip.jpg",
       takenBy: "Ando",
       caption: "Somewhere off Camp Pendleton",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468853/film-aint-dead/229600-R1-5A_f5curz.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468853/film-aint-dead/229600-R1-5A_f5curz.jpg",
       takenBy: "Han",
       caption: "Message board",
     },
     {
       image:
-        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468847/film-aint-dead/229600-R1-7A_pimzed.tiff",
+        "https://res.cloudinary.com/hannahbannan/image/upload/v1595468847/film-aint-dead/229600-R1-7A_pimzed.jpg",
       takenBy: "Han",
       caption: "The best museum I've ever been to",
     },
@@ -655,6 +655,125 @@ const main = async () => {
       takenBy: "Han",
       caption: "Electric babies",
     },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511027/film-aint-dead/aug%203/IMG_2603_cpu2q3.jpg",
+      takenBy: "Ando",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511028/film-aint-dead/aug%203/IMG_2607_icen9u.jpg",
+      takenBy: "Maddy",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511026/film-aint-dead/aug%203/IMG_2609_ivdv4v.jpg",
+      takenBy: "Avery",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511026/film-aint-dead/aug%203/IMG_2610_hr6g9g.jpg",
+      takenBy: "Maddy",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511026/film-aint-dead/aug%203/IMG_2604_coyqky.jpg",
+      takenBy: "Ando",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511025/film-aint-dead/aug%203/IMG_2605_y8xsdn.jpg",
+      takenBy: "Danny",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511025/film-aint-dead/aug%203/IMG_2606_dyzsco.jpg",
+      takenBy: "Maddy",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511025/film-aint-dead/aug%203/IMG_2608_ikvxnt.jpg",
+      takenBy: "Self-timer",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511022/film-aint-dead/aug%203/IMG_2612_y0gubk.jpg",
+      takenBy: "Maddy",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511022/film-aint-dead/aug%203/IMG_2611_oey7ze.jpg",
+      takenBy: "Maddy",
+    },{
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511020/film-aint-dead/aug%203/IMG_2613_prt8nz.jpg",
+      takenBy: "Ando",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511019/film-aint-dead/aug%203/IMG_2614_ka4mhw.jpg",
+      takenBy: "Han",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511017/film-aint-dead/aug%203/IMG_2364_zkreiv.jpg",
+      takenBy: "Jenny",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511015/film-aint-dead/aug%203/IMG_2348_dyvk8r.jpg",
+      takenBy: "Leah",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511014/film-aint-dead/aug%203/IMG_2358_l8ravo.jpg",
+      takenBy: "Maddy",
+    },{
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511014/film-aint-dead/aug%203/IMG_2372_m9yr4t.jpg",
+      takenBy: "Sophia",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511011/film-aint-dead/aug%203/IMG_2342_xzytlh.jpg",
+      takenBy: "Maddy",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511011/film-aint-dead/aug%203/IMG_2344_koicto.jpg",
+      takenBy: "Maddy",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511009/film-aint-dead/aug%203/IMG_2377_wmcr0w.jpg",
+      takenBy: "Maddy",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511008/film-aint-dead/aug%203/IMG_2347_wdbbka.jpg",
+      takenBy: "Sophia",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511358/film-aint-dead/aug%203/Misc_July_2_46_hiuo1a.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511357/film-aint-dead/aug%203/IMG_9518_t8bxl4.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511355/film-aint-dead/aug%203/Misc_July_2_75_cnaocb.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511353/film-aint-dead/aug%203/IMG_2312_ta3z82.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511353/film-aint-dead/aug%203/IMG_2310_k9h9sw.jpg",
+      takenBy: "Sophie",
+    },{
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511352/film-aint-dead/aug%203/B8F3E1D4-F0D4-49ED-8BF0-1171E44C9DC8_mvpo0u.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511352/film-aint-dead/aug%203/IMG_0257_vkbf4f.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511352/film-aint-dead/aug%203/IMG_0794_th9nhx.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511352/film-aint-dead/aug%203/IMG_0621_oa6wza.jpg",
+      takenBy: "Sophie",
+    },
+    {
+      image: "https://res.cloudinary.com/hannahbannan/image/upload/v1596511352/film-aint-dead/aug%203/BarnBoys_Roll3_04_AndySwartz_djfbru.jpg",
+      takenBy: "Sophie",
+    }
+
+
   ];
 
   await Photo.insertMany(photos);
